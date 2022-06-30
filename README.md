@@ -14,3 +14,6 @@ RestApi endpoints:
 - PUT /api/songs/id + song request body -> returns 204 
 - DELETE /api/songs/id -> returns 204
 - POST /api/user/login + request body -> returns 200 + access token
+
+First you need to install maven dependecies whic can happen automaticly or you can click maven dependecies button to start install process.
+To run the application the easist way to open application in intellij to click start or debug menu option.
